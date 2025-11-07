@@ -4,3 +4,5 @@ with open('file1.txt', 'r') as source_file:
 
 with open('file2.txt', 'w') as dest_file:
     dest_file.write(data)
+
+print("Successfully copied file")

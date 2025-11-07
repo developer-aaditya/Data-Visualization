@@ -1,7 +1,7 @@
 # WAP to count a no of characters in the given file
 
 # Specify the file name
-filename = "sample.txt"
+filename = "file1.txt"
 
 # Open the file in read mode
 file = open(filename, 'r')

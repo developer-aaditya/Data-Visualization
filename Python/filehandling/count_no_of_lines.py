@@ -1,7 +1,7 @@
 # WAP to count a no of lines in the given file
 
 # Specify the file name
-filename = "sample.txt"
+filename = "file1.txt"
 
 # Initialize line counter
 line_count = 0

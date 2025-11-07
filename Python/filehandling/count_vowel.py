@@ -1,8 +1,5 @@
 # Write a program in python to count no of vowels in the given file
 
-# File name to read from
-filename = "sample.txt"
-
 # Vowels to check
 vowels = "aeiouAEIOU"
 count = 0
